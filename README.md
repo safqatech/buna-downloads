@@ -32,3 +32,11 @@ Keys are bound to one computer (or more, if agreed). To buy a key, contact us on
 ---
 
 This repository only distributes installers; the application source is private. All rights reserved.
+
+<!-- buna-beta-download -->
+## إصدار تجريبي اختياري — 2.2.12-beta.2
+
+[تنزيل النسخة التجريبية 2.2.12-beta.2](https://github.com/safqatech/buna-downloads/releases/download/v2.2.12-beta.2/Buna-Setup-2.2.12-beta.2.exe) · [التغييرات والفحوص](https://github.com/safqatech/buna-downloads/releases/tag/v2.2.12-beta.2) · [SHA256SUMS](https://github.com/safqatech/buna-downloads/releases/download/v2.2.12-beta.2/SHA256SUMS.txt).
+
+تشمل رابط الهاتف وإصلاح ظهور هوية المفتاح فور التفعيل. تنزيل يدوي للاختبار بعد نسخة احتياطية وإغلاق بُنّ والرابط؛ الإصدار المستقر يبقى 2.2.11، ومدة التجربة كما هي. لا تُثبّت على أجهزة الزبائن تلقائيًا.
+<!-- /buna-beta-download -->
