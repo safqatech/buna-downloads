@@ -13,7 +13,7 @@
 - The installer is not code-signed yet: on Windows SmartScreen choose **More info → Run anyway**.
 - Change the default administrator password after the first sign-in.
 
-Website & live demo: https://buna-cafeteria.vercel.app
+Website & live demo: https://blbc.libyancode.com/
 Buy a licence key: https://wa.me/218930910590
 
 ---

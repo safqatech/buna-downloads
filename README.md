@@ -2,7 +2,7 @@
 
 **Buna** is a cafeteria management system for Windows: point of sale, stock, purchases, expenses, reports and accounting, with a full Arabic interface.
 
-- Website and live demo: https://buna-cafeteria.vercel.app
+- Website and live demo: https://blbc.libyancode.com/
 - Latest stable: [**Buna-Setup-2.2.12.exe**](https://github.com/safqatech/buna-downloads/releases/download/v2.2.12/Buna-Setup-2.2.12.exe) · [Release notes](../../releases/tag/v2.2.12)
 
 ## Install
@@ -22,7 +22,7 @@ Keys are bound to one computer (or more, if agreed). To buy a key, contact us on
 
 **بُنّ** نظام لإدارة الكافيتيريات على ويندوز: نقطة بيع ومخزون ومشتريات ومصروفات وتقارير ومحاسبة، بواجهة عربية كاملة.
 
-- الموقع والعرض التجريبي: https://buna-cafeteria.vercel.app
+- الموقع والعرض التجريبي: https://blbc.libyancode.com/
 - أحدث نسخة: من صفحة [**Releases**](../../releases)
 
 **التثبيت:** حمّل ملف `Buna-Setup` وشغّله (إذا ظهرت رسالة حماية ويندوز اختر «مزيد من المعلومات ← تشغيل على أي حال»)، ثم اختر «ابدأ التجربة المجانية» (7 أيام) أو أدخل مفتاح الترخيص. يلزم اتصال بالإنترنت للتجربة وللتفعيل. غيّر كلمة مرور المدير بعد أول دخول.

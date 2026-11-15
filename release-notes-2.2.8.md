@@ -9,6 +9,6 @@
 
 SHA-256: 7aaf70fce57931ada92a3f6320d3fa641859337e1dacecb5503b48d3b8aabf2e
 
-الموقع: https://buna-cafeteria.vercel.app/
+الموقع: https://blbc.libyancode.com/
 
 This repository distributes installers and public update metadata only. Application and website source repositories remain private.
